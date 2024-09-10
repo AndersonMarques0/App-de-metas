@@ -9,3 +9,10 @@ Maneira de dar instruções ao computador.
 Coletar dados
 Processar os dados
 Apresentar os dados
+
+## Escopo e variáveis
+
+## Tipos de dados
+
+Strings (texto) "" '' ``
+Number (números)
