@@ -1,10 +1,15 @@
 // comentário de uma linha
 
-let = mensagem = "olá mundo";
-
-{
-    const mensagem = "olá eu";
-    console.log(mensagem);
+// array, objetos
+let meta = {
+    value: 'ler um livro por mês',
+    checked: true,
 }
 
-console.log(mensagem);
+let metas = [
+    meta,
+    {
+        value: "caminhar 20 minutos todos os dias",
+        checked: false
+    }
+]
