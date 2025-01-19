@@ -22,7 +22,7 @@ Este é um sistema simples de gerenciamento de metas feito em JavaScript.
 - Metas abertas: o usuário consegue ver todas as metas não cumpridas.
 - Deletar metas: é possível excluir qualquer meta cadastrada.
 
-<video controls src="video/app-funcionando.mp4" title="Funcionamento do aplicativo de metas"></video>
+https://github.com/user-attachments/assets/cae1ebe3-4baa-46ad-b490-8522f7d76223
 
 ## Tecnologias utilizadas
 - ``JavaScript``
